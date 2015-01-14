@@ -22,7 +22,7 @@ Start by opening the right module, a small philips screw driver will do the job,
 #### Step 2:
 Locate the "T" pin on the smaller (daughter) board, and solder a good length of wire to the "T" pin, make sure there's no bridging from other pins. Strip and connect the "T" to RX1 on your Scout.
 
-Image below shows the "T" marked as a red dot.
+Image below shows the "T" contact marked by a red dot.
 ![alt text](Images/tPin.JPG "Board inside MindFlex" )
 
 #### Step 3:
@@ -30,7 +30,7 @@ Find the common ground, this was on the main board for me, next to a group of ca
 
 *Optional: Use the ~4 in from the positive lead to power your Scout, just run a wire from the positive lead to VUSB on your Scout.*
 
-Image below shows the "T" marked as a red dot.
+Image below shows the common ground marked by a red dot.
 ![alt text](Images/ground.JPG "Board inside MindFlex" )
 
 #### Step 4:
